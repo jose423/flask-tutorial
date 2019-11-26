@@ -1,0 +1,4 @@
+venv/
+instance/
+flaskr/__pychache__
+.vscode/
